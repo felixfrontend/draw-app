@@ -1,0 +1,30 @@
+.dockview {
+  height: 100vh;
+  min-width: 70%;
+  background-color: #1e1e1e;
+  &-wrapper {
+    display: flex;
+  }
+  &-title {
+    color: #fff;
+    font-weight: lighter;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    text-align: center;
+  }
+}
+
+.groupview {
+  &.active-group {
+    > .tabs-and-actions-container {
+      border-bottom: 2px solid lightskyblue;
+    }
+  }
+  background-color: #ccc;
+  &.inactive-group {
+    > .tabs-and-actions-container {
+      border-bottom: 2px solid white;
+    }
+  }
+}
