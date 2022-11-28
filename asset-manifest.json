@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/draw-app/static/css/main.4096a34e.css",
-    "main.js": "/draw-app/static/js/main.32160ed2.js",
-    "index.html": "/draw-app/index.html",
-    "main.4096a34e.css.map": "/draw-app/static/css/main.4096a34e.css.map",
-    "main.32160ed2.js.map": "/draw-app/static/js/main.32160ed2.js.map"
+    "main.css": "/static/css/main.4096a34e.css",
+    "main.js": "/static/js/main.32160ed2.js",
+    "index.html": "/index.html",
+    "main.4096a34e.css.map": "/static/css/main.4096a34e.css.map",
+    "main.32160ed2.js.map": "/static/js/main.32160ed2.js.map"
   },
   "entrypoints": [
     "static/css/main.4096a34e.css",
